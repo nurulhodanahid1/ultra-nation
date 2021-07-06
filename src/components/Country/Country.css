@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+    height: 120px;
+}
+.country-container{
+    border: 2px solid goldenrod;
+    margin: 15px;
+    background-color: hotpink;
+}
